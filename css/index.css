@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    background-color: aquamarine;
+    color: white;
+}
+
+.fort {
+    color:green
+}
+
+.ckn {
+    color: yellow;
+}
+
+.hdog{
+    color: red;
+}
